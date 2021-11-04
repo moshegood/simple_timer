@@ -1,0 +1,12 @@
+p {
+  margin: auto;
+}
+
+nav li {
+  display: inline;
+}
+
+.container div div {
+  display: flex;
+  width: 500px;
+}
